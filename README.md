@@ -3,7 +3,7 @@ This website is a portfolio of all of my current projects.  It was orginally des
 
 The template I used is from a HTML5 UP, which is free for personal use, learn more at html5up.net.  I modified some styles elements to fit my style.
 
-#Contact Me
+##Contact Me
 Feel free to contact me for more information about my projects!
 
 melissa.olendese@gmail.com
